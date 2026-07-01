@@ -21,7 +21,7 @@ Core Strengths
 
 ## 🛠️ Tools & Technologies
 
-Python • SQL • Excel • Power BI • Tableau • Pandas • NumPy • Matplotlib • GitHub
+Python • SQL • Excel • Power BI • Tableau
 
 
 Contact
