@@ -1,4 +1,4 @@
-Data Analyst focused on turning messy data into clear insights that drive better business decisions. I work across the full analytics workflow — from cleaning and exploring data to building dashboards and delivering insights that stakeholders can actually use.
+Data Analyst focused on turning messy data into clear insights that drive better business decisions. I work across the full analytics workflow from cleaning and exploring data to building dashboards and delivering insights that stakeholders can actually use.
 
 
 What I Do
